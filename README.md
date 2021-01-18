@@ -3,7 +3,7 @@
 I'm Prateek Sakaray, currently working as an Data Science Intern :computer: and I am passionate about learning new upcoming technologies.I am experienced in building scalable Machine learning models and Artificial Intelligence algorithms. I have completed my Masters in Computing Data Analytics from Dublin City University, Ireland. Beside's programming, I enjoy playing badminton:badminton:, travelling:earth_americas: and playing various musical instruments :guitar: in my free time.
 
 
-### ⚡ Technologies
+### ⚡ Technologies and Skillset
 - Programming: Core Java-8, Python -3, JSP- Servlet, R Programming.
 - Web Development: HTML, CSS, JavaScript.
 - Technologies: Apache Hadoop – MapReduce, Hive, Pig.
