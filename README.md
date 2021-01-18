@@ -1,4 +1,4 @@
-## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Hello folks!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 I'm Prateek Sakaray, currently working as an Data Science Intern :computer: from India who is passionate about the upcoming technologies. I have completed my Masters in Computing Data Analytics from Dublin City University. Beside's programming, I enjoy playing badminton:badminton:, travelling:earth_americas: and playing various musical instruments :guitar: in my free time.
 
