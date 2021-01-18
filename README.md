@@ -1,6 +1,6 @@
 ## Hello folks!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm Prateek Sakaray, currently working as an Data Science Intern :computer: and I am passionate about learning the upcoming technologies. I have completed my Masters in Computing Data Analytics from Dublin City University, Ireland. Beside's programming, I enjoy playing badminton:badminton:, travelling:earth_americas: and playing various musical instruments :guitar: in my free time.
+I'm Prateek Sakaray, currently working as an Data Science Intern :computer: and I am passionate about learning new upcoming technologies.I am experienced in building scalable Machine learning models and Artificial Intelligence algorithms. I have completed my Masters in Computing Data Analytics from Dublin City University, Ireland. Beside's programming, I enjoy playing badminton:badminton:, travelling:earth_americas: and playing various musical instruments :guitar: in my free time.
 
 
 ### ⚡ Technologies
