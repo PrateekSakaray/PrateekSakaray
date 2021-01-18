@@ -23,12 +23,10 @@ I'm Prateek Sakaray, currently working as an Data Science Intern :computer: from
 
 ###  📫 Reach Out to me on:
 
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sakaray.prateek18@gmail.com)](mailto:sakaray.prateek18@gmail.com)
 <a href="https://www.linkedin.com/in/prateek-sakaray/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sakaray.prateek18@gmail.com)](mailto:sakaray.prateek18@gmail.com)
 <a href="https://twitter.com/SakarayPrateek">
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
