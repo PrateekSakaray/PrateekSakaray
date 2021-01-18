@@ -40,5 +40,8 @@ I'm Prateek Sakaray, currently working as an Data Science Intern :computer: and 
  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
  
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=PrateekSakaray&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 
