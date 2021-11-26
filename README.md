@@ -1,6 +1,6 @@
 ## Hello folks!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm Prateek Sakaray, currently working as a Business Intellignece Data Analyst and have previously worked as a Data Analyst at Kansastek:computer: and I am passionate about learning new upcoming technologies.I have experience building scalable Machine learning models and Artificial Intelligence algorithms. I have completed my Masters in Computing Data Analytics from Dublin City University, Ireland. Beside's programming, I enjoy playing badminton:badminton:, travelling:earth_americas: and playing various musical instruments :guitar: in my free time.
+I'm Prateek Sakaray, currently working as a Business Intellignece Data Analyst at Mediahuis and have previously worked as a Data Analyst at Kansastek:computer: and I am passionate about learning new upcoming technologies.I have experience building scalable Machine learning models and Artificial Intelligence algorithms. I have completed my Masters in Computing Data Analytics from Dublin City University, Ireland. Beside's programming, I enjoy playing badminton:badminton:, travelling:earth_americas: and playing various musical instruments :guitar: in my free time.
 
 
 ### ⚡ Technologies and Skillset
