@@ -1,16 +1,16 @@
 ## Hello folks!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm Prateek Sakaray, currently working as a Data Science Intern :computer: and I am passionate about learning new upcoming technologies.I have experience building scalable Machine learning models and Artificial Intelligence algorithms. I have completed my Masters in Computing Data Analytics from Dublin City University, Ireland. Beside's programming, I enjoy playing badminton:badminton:, travelling:earth_americas: and playing various musical instruments :guitar: in my free time.
+I'm Prateek Sakaray, currently working as a Business Intellignece Data Analyst and have previously worked as a Data Analyst at Kansastek:computer: and I am passionate about learning new upcoming technologies.I have experience building scalable Machine learning models and Artificial Intelligence algorithms. I have completed my Masters in Computing Data Analytics from Dublin City University, Ireland. Beside's programming, I enjoy playing badminton:badminton:, travelling:earth_americas: and playing various musical instruments :guitar: in my free time.
 
 
 ### ⚡ Technologies and Skillset
 - Programming: Core Java-8, Python -3, JSP- Servlet, R Programming.
 - Web Development: HTML, CSS, JavaScript.
 - Technologies: Apache Hadoop – MapReduce, Hive, Pig.
-- Databases: SQL, PL-SQL.
+- Databases: SQL, PL-SQL, Big Query SQL.
 - Frameworks: Spring, Tomcat, Web Services(REST).
 - Cloud Technologies: Docker, Google Cloud Platform(Compute Engine, Cluster, Buckets).
-- Tools: Familiar with Eclipse, RStudio, Tableau, Google Cloud Platform, CI-CD(Git), Junit, Excel.
+- Tools: Familiar with Google Data Studio, Google Analytics, Eclipse, RStudio, Tableau, Google Cloud Platform, CI-CD(Git), Junit, Excel.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
