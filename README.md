@@ -4,13 +4,11 @@ I'm Prateek Sakaray, currently working as a Data Analyst at AIB Allied Irish Ban
 
 
 ### ⚡ Technologies and Skillset
-- Programming: Core Java-8, Python -3, JSP- Servlet, R Programming.
-- Web Development: HTML, CSS, JavaScript.
+- Programming:  Python -3, R Programming.
 - Technologies: Apache Hadoop – MapReduce, Hive, Pig.
-- Databases: SQL, PL-SQL, Big Query SQL.
-- Frameworks: Spring, Tomcat, Web Services(REST).
+- Databases: SQL, Big Query SQL.
 - Cloud Technologies: Docker, Google Cloud Platform(Compute Engine, Cluster, Buckets).
-- Tools: Familiar with Google Data Studio, Google Analytics, Eclipse, RStudio, Tableau, Google Cloud Platform, CI-CD(Git), Junit, Excel.
+- Tools: Familiar with JIRA, Confluence, Google Data Studio, Google Analytics, Eclipse, RStudio, Tableau, Google Cloud Platform, CI-CD(Git), Junit, Excel.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
